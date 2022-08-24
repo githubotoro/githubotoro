@@ -6,6 +6,8 @@
 -   👉 Currently exploring NextJS & TypeScript.
 -   📌 Building Formsify - Web3 empowered forms.
 
+---
+
 ☕ Let's have a coffee-chat and create something better together...
 
 -   👀 Find me on-chain: **[0xD5a63CCE627372481b30AE24c31a3Fb94913D5Be](https://blockscan.com/address/0xD5a63CCE627372481b30AE24c31a3Fb94913D5Be)**
