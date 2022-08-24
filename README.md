@@ -5,7 +5,7 @@
 -   🌐 Get to know me: **[Portfolio](https://yupuday.vercel.app/)**
 -   🚢 Check out my ships: **[BuildSpace](https://buildspace.so/@yupuday)**
 -   🧐 Hunt me on: **[ProductHunt](https://www.producthunt.com/@yupuday)**
--   📡 Connect with me: **[Twitter](https://twitter.com/yupuday)** | **[LinkedIn](https://www.linkedin.com/in/yupuday/)**
+-   📡 Connect with me: **[Lens](https://www.lensfrens.xyz/yupuday.lens)** | **[Twitter](https://twitter.com/yupuday)** | **[LinkedIn](https://www.linkedin.com/in/yupuday/)**
 
 ## 🔎 Research
 
