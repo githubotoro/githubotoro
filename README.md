@@ -7,6 +7,15 @@
 -   🧐 Hunt me on: **[ProductHunt](https://www.producthunt.com/@yupuday)**
 -   📡 Connect with me: **[Lens](https://www.lensfrens.xyz/yupuday.lens)** | **[Twitter](https://twitter.com/yupuday)** | **[LinkedIn](https://www.linkedin.com/in/yupuday/)**
 
+## ✍️ Skills
+
+-   **Languages**: C/C++, Python, Solidity
+-   **Web**: React, JavaScript, Tailwind, HTML, CSS
+-   **Backend**: NodeJS, Express, MongoDB, MySQL
+-   **DevOps**: Git, Firebase, Vercel
+-   **Tools & Frameworks**: Hardhat, EthersJS, Ganache
+-   **Design**: Figma, Photoshop, Illustrator
+
 ## 🔎 Research
 
 -   **DAMBNFT: Document Authentication Model through Blockchain and Non-fungible Tokens**
