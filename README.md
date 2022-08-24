@@ -1,5 +1,13 @@
 ## 🦄 Me
 
+👋 I'm Uday, final year B. Tech. Student in Computer Science & Engineering Program @ Pandit Deendayal Energy University (formerly PDPU).
+
+-   💯 Passionate about Entrepreneurship, Web Development and Cloud Computing.
+-   👉 Currently exploring NextJS & TypeScript.
+-   📌 Building Formsify - Web3 empowered forms.
+
+☕ Let's have a coffee-chat and create something better together...
+
 -   👀 Find me on-chain: **[0xD5a63CCE627372481b30AE24c31a3Fb94913D5Be](https://blockscan.com/address/0xD5a63CCE627372481b30AE24c31a3Fb94913D5Be)**
 -   📧 Reach me via: **uday.khokhariya@gmail.com**
 -   🌐 Get to know me: **[Portfolio](https://yupuday.vercel.app/)**
@@ -20,13 +28,13 @@
 
 -   **DAMBNFT: Document Authentication Model through Blockchain and Non-fungible Tokens**
 
-    -   📌 **DOI:** [10.1007/978-981-16-9967-2_33](http://dx.doi.org/10.1007/978-981-16-9967-2_33)
+    -   🔗 **DOI:** [10.1007/978-981-16-9967-2_33](http://dx.doi.org/10.1007/978-981-16-9967-2_33)
     -   📘 **Book:** Smart Trends in Computing and Communications, Proceedings of SmartCom 2022
     -   📚 **Series:** Lecture Notes in Networks and Systems (LNNS, volume 396)
 
 -   **Securing Cookies/Sessions Through Non-Fungible Tokens**
 
-    -   📌 **DOI:** [10.1007/978-3-031-11217-1_10](http://dx.doi.org/10.1007/978-3-031-11217-1_10)
+    -   🔗 **DOI:** [10.1007/978-3-031-11217-1_10](http://dx.doi.org/10.1007/978-3-031-11217-1_10)
     -   📘 **Book:** Database Systems for Advanced Applications, DASFAA 2022 International Workshops
     -   📚 **Series:** Lecture Notes in Computer Science (LNCS, volume 13248)
 
@@ -46,5 +54,3 @@
 -   Builder @ [Buildspace's Nights & Weekends](https://buildspace.so/nights-weekends)
 -   Vice-President @ [RANG - The Fine Arts Club of PDEU](https://www.instagram.com/rang.pdeu/)
 -   Graphic Design Head @ [GeeksToPeaks - The GFG PDEU Chapter](https://www.instagram.com/geekstopeaks.pdeu/)
-
-<!-- > 📋 I am currently building Formsify (It helps in creating better forms, which are decentralized, trustless and distributed.) -->
