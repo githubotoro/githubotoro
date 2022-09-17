@@ -2,7 +2,7 @@
 
 👋 I'm Uday, final year B. Tech. Student in Computer Science & Engineering Program @ Pandit Deendayal Energy University (formerly PDPU).
 
--   💯 Passionate about Entrepreneurship, Web Development and Cloud Computing.
+-   💯 Passionate about WAGMI, LFG and GTFOL.
 -   👉 Currently exploring NextJS & TypeScript.
 -   📌 Building Formsify - Web3 empowered forms.
 
