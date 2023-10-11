@@ -1,28 +1,20 @@
 ## 🦄 Me
 
-👋 I'm Uday, final year B. Tech. Student in Computer Science & Engineering Program @ Pandit Deendayal Energy University (formerly PDPU).
-
--   💯 Passionate about WAGMI, LFG and GTFOL.
--   👉 Currently exploring NextJS & TypeScript.
--   📌 Building Formsify - Web3 empowered forms.
+👋 I'm Uday, Masters Student in Computer Science @ University of Southern California.
 
 ☕ Let's have a coffee-chat and create something better together...
 
--   👀 Find me on-chain: **[0xD5a63CCE627372481b30AE24c31a3Fb94913D5Be](https://mumbai.polygonscan.com/address/0xD5a63CCE627372481b30AE24c31a3Fb94913D5Be)**
 -   📧 Reach me via: **uday.khokhariya@gmail.com**
--   🌐 Get to know me: **[Portfolio](https://yupuday.vercel.app/)**
--   🚢 On-board my ships: **[BuildSpace](https://buildspace.so/@yupuday)**
+-   🌐 Get to know me: **[Portfolio](https://read.cv/yupuday)**
 -   🧐 Hunt me on: **[ProductHunt](https://www.producthunt.com/@yupuday)**
--   📡 Connect with me: **[Lens](https://www.lensfrens.xyz/yupuday.lens)** | **[Twitter](https://twitter.com/yupuday)** | **[LinkedIn](https://www.linkedin.com/in/yupuday/)**
+-   📡 Connect with me: **[Twitter](https://twitter.com/yupuday)** | **[LinkedIn](https://www.linkedin.com/in/yupuday/)**
 
 ## ✍️ Skills
 
--   **Languages**: C/C++, Python, Solidity
--   **Web**: React, JavaScript, Tailwind, HTML, CSS
--   **Backend**: NodeJS, Express, MongoDB, MySQL
--   **DevOps**: Git, Firebase, Vercel
--   **Tools & Frameworks**: Hardhat, EthersJS, Ganache
--   **Design**: Figma, Photoshop, Illustrator
+-   **Programming**: Python, C/C++, JavaScript, TypeScript, Solidity, SQL, HTML, CSS
+-   **Frameworks**: React, Next.js, Node.js, Express.js, Prisma ORM, Firebase, MongoDB, PlanetScale, Hardhat, Tailwind
+-   **Technologies**: REST APIs, Amazon Web Services, Postman, NoSQL, Postman, Git, Vercel, Linux
+
 
 ## 🔎 Research
 
@@ -50,7 +42,9 @@
 
 ## 💼 Work History
 
--   Researcher - Blockchain & NFTs @ [Department of Computer Science & Engineering, SoT, PDEU](https://sot.pdpu.ac.in/ce-dept.html)
--   Builder @ [Buildspace's Nights & Weekends](https://buildspace.so/nights-weekends)
--   Vice-President @ [RANG - The Fine Arts Club of PDEU](https://www.instagram.com/rang.pdeu/)
--   Graphic Design Head @ [GeeksToPeaks - The GFG PDEU Chapter](https://www.instagram.com/geekstopeaks.pdeu/)
+-   (curr.) Dev Team Member @ [Blockchain at USC](https://www.blockchainusc.com/)
+-   (prev.) Software Enginer Intern @ [Tanthetaa Software Studio](https://www.tanthetaa.com/)
+-   (prev.) Researcher - Blockchain & NFTs @ [Department of Computer Science & Engineering, SoT, PDEU](https://sot.pdpu.ac.in/ce-dept.html)
+-   (prev.) Builder @ [Buildspace's Nights & Weekends](https://buildspace.so/nights-weekends)
+-   (prev.) Vice-President @ [RANG - The Fine Arts Club of PDEU](https://www.instagram.com/rang.pdeu/)
+-   (prev.) Graphic Design Head @ [GeeksToPeaks - The GFG PDEU Chapter](https://www.instagram.com/geekstopeaks.pdeu/)
