@@ -42,9 +42,9 @@
 
 ## 💼 Work History
 
--   (curr.) Dev Team Member @ [Blockchain at USC](https://www.blockchainusc.com/)
--   (prev.) Software Enginer Intern @ [Tanthetaa Software Studio](https://www.tanthetaa.com/)
--   (prev.) Researcher - Blockchain & NFTs @ [Department of Computer Science & Engineering, SoT, PDEU](https://sot.pdpu.ac.in/ce-dept.html)
--   (prev.) Builder @ [Buildspace's Nights & Weekends](https://buildspace.so/nights-weekends)
--   (prev.) Vice-President @ [RANG - The Fine Arts Club of PDEU](https://www.instagram.com/rang.pdeu/)
--   (prev.) Graphic Design Head @ [GeeksToPeaks - The GFG PDEU Chapter](https://www.instagram.com/geekstopeaks.pdeu/)
+-   `curr` Dev Team Member @ [Blockchain at USC](https://www.blockchainusc.com/)
+-   `prev` Software Enginer Intern @ [Tanthetaa Software Studio](https://www.tanthetaa.com/)
+-   `prev` Researcher - Blockchain & NFTs @ [Department of Computer Science & Engineering, SoT, PDEU](https://sot.pdpu.ac.in/ce-dept.html)
+-   `prev` Builder @ [Buildspace's Nights & Weekends](https://buildspace.so/nights-weekends)
+-   `prev` Vice-President @ [RANG - The Fine Arts Club of PDEU](https://www.instagram.com/rang.pdeu/)
+-   `prev` Graphic Design Head @ [GeeksToPeaks - The GFG PDEU Chapter](https://www.instagram.com/geekstopeaks.pdeu/)
