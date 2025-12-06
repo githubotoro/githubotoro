@@ -63,8 +63,8 @@
 
 ## 💼 Work History
 
-- `curr` Full-Stack Engineer @ [Waymont Holdings](https://www.royco.org/)
-- `prev` Data Analyst @ [OpenBlock Labs](https://www.openblocklabs.com/)
+- `curr` Software Engineer @ [Waymont Holdings](https://www.royco.org/)
+- `prev` Software Engineer @ [OpenBlock Labs](https://www.openblocklabs.com/)
 - `prev` Dev Team Member @ [Blockchain at USC](https://www.blockchainusc.com/)
 - `prev` Software Enginer Intern @ [Tanthetaa Software Studio](https://www.tanthetaa.com/)
 - `prev` Researcher - Blockchain & NFTs @ [Department of Computer Science & Engineering, SoT, PDEU](https://sot.pdpu.ac.in/ce-dept.html)
